@@ -17,7 +17,6 @@ const Body = ()=>{
       onClick */}
       <button onClick={handlerOnClick}>
         버튼 클릭2
-        또는 즐거운 시간
       </button>
      </div>
   );
